@@ -122,6 +122,11 @@ section .set div:nth-child(8) {
 
 @media screen and (min-width: 300px) and (max-width: 800px) {
     section h2 {
-        font-size: 2em;
+        font-size: 3.8em;
+    }
+
+    section .set div img {
+        width: 150px;
+        height: 150px;
     }
 }
